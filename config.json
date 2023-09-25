@@ -1,5 +1,4 @@
 {
-  "access-token": ACCESS_TOKEN,
   "server": "social.9tail.net",
   "home-timeline-length": 200,
   "max-followings": 80,
