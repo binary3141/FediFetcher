@@ -1,6 +1,7 @@
 {
-  "server": "social.9tail.net",
+  "server": "mastodon-tw.com",
   "home-timeline-length": 200,
   "max-followings": 80,
-  "from-notifications": 1
+  "from-notifications": 1,
+  "reply-interval-in-hours": 80
 }
